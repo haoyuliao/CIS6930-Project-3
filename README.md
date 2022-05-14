@@ -15,6 +15,7 @@
    C[4] is the mask of diskC[5] is the mask of the chip, C[6] is the mask of the reader, C[7] is the mask of y_part, C[8] is the mask of background. H and W is 224 by 244 of each array or the size of each image. C[0:3] is the input image, and 
    C[3:-1] is the output or target mask image.
  6. ImgsNameV2.npy: The name of the image file from the InputImgs folder. This file is the reference of DatasetArrV2.npy.
+#Please DM me for dataset query.
 
 ## Programs
  1. DatasetPreprocessSaveMask.ipynb: To process the UB-Data into mask images.
